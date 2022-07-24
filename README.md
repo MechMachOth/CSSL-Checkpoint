@@ -1,1 +1,1 @@
-DocplannerGroup.
+DocplannerGroup
